@@ -5,6 +5,7 @@ export default function Main() {
   <div>
     <div>test01</div>
     <div>test02</div>
+    <div>test03</div>
   </div>    
   )
 }
