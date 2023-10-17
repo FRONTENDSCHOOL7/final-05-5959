@@ -1,0 +1,52 @@
+.header h2 {
+  color: white;
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+.logo {
+  height: 70.59px;
+  vertical-align: top;
+  padding-top: 206px;
+}
+
+.bottom {
+  background-color: white;
+  border-radius: 20px 20px 0 0;
+  padding: 50px 34px 72px;
+}
+
+button {
+  padding: 14px 0 13px 0;
+  width: 322px;
+  font-size: 14px;
+  color: var(--gray-01, #767676);
+}
+
+button.kakao {
+  border-radius: 44px;
+  border: 1px solid var(--Yellow, #f2c94c);
+  background: url(../img/kakao_icon.png) no-repeat 14px 10px / contain;
+  background-size: 24px;
+}
+
+button.google {
+  border-radius: 44px;
+  border: 1px solid var(--767676, #767676);
+  background: url(../img/Google_icon_white.png) no-repeat 14px 10px / contain;
+  background-size: 24px;
+}
+
+button.facebook {
+  border-radius: 44px;
+  border: 1px solid var(--Blue-2, #2d9cdb);
+  background: url(../img/facebook_icon.png) no-repeat 14px 10px / contain;
+  background-size: 24px;
+}
+
+button.email_login {
+  border-radius: 44px;
+  border: 1px solid var(--Blue-2, #2d9cdb);
+  background: url(../img/5959_icon.png) no-repeat 14px 10px / contain;
+  background-size: 24px;
+}
